@@ -1,0 +1,36 @@
+{
+    "pélerinages":{
+        "pélerinage":{
+            "pelerin":[
+                {"nom":"alaoui",
+                "prenon":"amine"
+              ,"dossier_medical":
+              {"maladie":"hypertension",
+                "groupe_sanguin":"o+" },
+                "num":"p1",
+                "sexe":"M",
+                "nationalité":"marocain",
+                "age":"50"},
+                {"nom":"talal",
+                "prenom":"sara",
+            "dossier_medical":{
+                "groupe_sanguin":"a+",
+                "enceinte semaine":4},
+                "num":"p3",
+            "sexe":"f",
+            "nationalité":"libanaise",
+            "age":"40",
+            "idaccompagnateur":"p1234"
+        },{"nom":"madbouli",
+            "prenom":"yassir"
+        ,"dossier_medical":
+        {"groupe_sanguin":"b+"},
+        "num":"p3",
+        "sexe":"h",
+        "nationalité":"egyptien",
+        "age":"45"
+        }
+            ],"annee":"2018"
+        }
+    }
+}
